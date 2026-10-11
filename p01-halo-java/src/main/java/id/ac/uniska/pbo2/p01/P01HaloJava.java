@@ -8,6 +8,7 @@ package id.ac.uniska.pbo2.p01;
  *
  * @author lenovo
  */
+// P01 - Halo Java
 public class P01HaloJava {
 
     public static void main(String[] args) {
