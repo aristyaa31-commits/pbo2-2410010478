@@ -1,0 +1,16 @@
+KERANGKA LATIHAN PBO 2 - DAFTAR BELANJA
+
+1. Buka Apache NetBeans.
+2. Pilih File > Open Project, lalu pilih folder p08-uts-b-latihan.
+3. Periksa dependency FlatLaf 3.5.4 pada Maven Dependencies.
+4. Isi nama dan NPM pada komentar di setiap file Java.
+5. Lengkapi class Barang dan BarangTableModel berdasarkan pemahaman Anda.
+6. Untuk jendela, klik kanan package id.ac.uniska.pbo2.uts
+   > New > JFrame Form. Beri nama FormDaftarBelanja.
+7. Susun komponen melalui tab Design. Gunakan JLabel, JTextField,
+   JComboBox, JSpinner, JButton, JTable, dan JScrollPane.
+8. Hubungkan tombol dan model tabel setelah memahami fungsi masing-masing.
+
+Catatan:
+Ini hanya kerangka latihan, bukan aplikasi jadi. File .form dibuat oleh
+GUI Builder NetBeans saat Anda membuat JFrame Form.
