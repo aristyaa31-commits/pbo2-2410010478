@@ -1,7 +1,7 @@
 package id.ac.uniska.pbo2.uts;
 
-// Nama: ____________________
-// NPM: _____________________
+// Nama: Muhammad Aristya Widayadi
+// NPM: 2410010478
 
 public class Barang {
     private String nama;
@@ -16,6 +16,23 @@ public class Barang {
         this.jumlah = jumlah;
     }
 
-    // Lengkapi getter yang diperlukan.
-    // Lengkapi method hitungSubtotal() sesuai spesifikasi soal.
+    public String getNama() {
+        return nama;
+    }
+
+    public Kategori getKategori() {
+        return kategori;
+    }
+
+    public int getHarga() {
+        return harga;
+    }
+
+    public int getJumlah() {
+        return jumlah;
+    }
+
+    public int hitungSubtotal() {
+        return harga * jumlah;
+    }
 }

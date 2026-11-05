@@ -1,7 +1,7 @@
 package id.ac.uniska.pbo2.uts;
 
-// Nama: ____________________
-// NPM: _____________________
+// Nama: Muhammad Aristya Widayadi
+// NPM: 2410010478
 
 import javax.swing.table.AbstractTableModel;
 import java.util.ArrayList;
